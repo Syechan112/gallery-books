@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "The Great Gatsby",
-    "author": "F. Scott Fitzgerald",
-    "category": "Classic",
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Self Development",
     "description": "A classic novel about the American dream, wealth, and love during the Roaring Twenties.",
-    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
-    "buyLink": "https://example.com/product/1",
-    "price": "$12.50"
+    "image": "https://gpu.id/data-gpu/images/img-book/93953/623221001.jpg",
+    "buyLink": "https://vt.tokopedia.com/t/ZSHT3tpaCpQYs-4zwUp/",
+    "price": "Rp. 86.400"
   }
 ]
