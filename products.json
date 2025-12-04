@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic",
+    "description": "A classic novel about the American dream, wealth, and love during the Roaring Twenties.",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+    "buyLink": "https://example.com/product/1",
+    "price": "$12.50"
+  }
+]
